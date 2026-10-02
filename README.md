@@ -54,15 +54,15 @@ CampusLife is a Flutter-based campus companion application designed for SRM stud
 
 Firebase configuration must be set up correctly for authentication to work.
 
-## Live Demo
+## ## Demo Access
 
-https://kyrap-07.github.io/CNtask/
+Use the demo account below to access the application, if prompted to log in.
 
-## Future Scope
+* **Demo email:** `8bjanapriyanka85@gmail.com`
+* **Demo password:** See the demo credentials provided separately to the evaluator.
 
-* Enhanced campus announcements and academic updates
-* Improved exam and attendance reminders
-* Additional student-focused campus utilities
+**Live Application:** https://kyrap-07.github.io/CNtask/
+
 
 ## Author
 
