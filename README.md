@@ -59,7 +59,8 @@ Firebase configuration must be set up correctly for authentication to work.
 Use the demo account below to access the application, if prompted to log in.
 
 * **Demo email:** `8bjanapriyanka85@gmail.com`
-* **Demo password:** See the demo credentials provided separately to the evaluator.
+* **Demo password:** tinytan*bt21
+
 
 **Live Application:** https://kyrap-07.github.io/CNtask/
 
